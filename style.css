@@ -1,0 +1,56 @@
+.bdy
+{
+    background-color: black;
+     color: white;
+     
+}
+.title 
+{
+    text-decoration: underline ;
+    text-decoration-color:yellow ;
+    font-size: 35px;
+}
+.btn
+{
+    object-position: 100%;
+}
+img{
+    margin: -40% 0px 0px 50%;
+}
+
+.list {
+    list-style-type: none;
+}
+.list li a
+{
+    color:white;
+   
+}
+.sidebar{
+    transform: rotate(270deg);
+    margin: 25% 90% 0px 0px;
+    
+}
+.sidebar ul li:nth-child(2) a
+{
+    color:white;
+    text-decoration: underline ;
+    text-decoration-color: yellow ;
+}
+.sidebar ul li
+{
+    display: inline-block;
+}
+.sidebar ul li a
+{
+    color: white;
+    text-decoration: underline ;
+    text-decoration-color:red ; 
+}
+.ctn
+{
+    display: inline-block;
+}
+.nav-head li a{
+    text-align: right;
+}
